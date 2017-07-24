@@ -1,0 +1,3 @@
+[submodule "communication/matterbridge"]
+	path = communication/matterbridge
+	url = git@github.com:zeridon/matterbridge.git
