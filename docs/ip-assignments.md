@@ -31,11 +31,11 @@ IP | Name | Notes
 .55 | ap-cf-mr-4 | ap conf floor main room
 .56 | ap-cf-sr-1 | ap conf floor second room
 .57 | ap-cf-sr-2 | ap conf floor second room
-.58 | ap-ws-ws-1 | ap workshop floor workshop area
-.59 | ap-ws-ws-2 | ap workshop floor workshop area
-.60 | ap-ws-ws-3 | ap workshop floor workshop area
-.61 | ap-ws-ws-4 | ap workshop floor workshop area
-.62 | ap-ws-noc-1 | ap worksop floor NOC/TEAM area
+.58 | ap-cf-ch   | ap conf floor chillout area
+.59 | ap-cf-qws  | ap conf floor quiet workshop area
+.60 | ap-ws-ws1  | ap workshop floor workshop area
+.61 | ap-ws-ws2  | ap workshop floor workshop area
+.62 | ap-ws-noc  | ap workshop floor NOC/team room
 
 ### Video
 IP | Name | Notes
