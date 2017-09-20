@@ -9,6 +9,7 @@ ID | IP/Range | Name | Notes
 22 | 10.22.0.0/22 | wireless | ap
 23 | 10.23.0.0/24 | video | video team
 24 | 10.24.0.0/24 | overflow | overflow TV's
+25 | 10.25.0.0/24 | reception | Reception related
 
 ## Assignments
 
@@ -24,6 +25,7 @@ IP | Name | Notes
 .23 | nocsw | NOC/team switch
 .24 | wssw1 | workshop area switch
 .25 | wssw2 | workshop area switch
+.26 | receptionsw | reception area switch
 .50 | ap-cf-f-l | ap conf floor left foaier
 .51 | ap-cf-f-r | ap conf floor right foaier
 .52 | ap-cf-mr-1 | ap conf floor main room
@@ -67,6 +69,11 @@ IP | Name | Notes
 IP | Name | Notes
 ---|------|------
 0.1 | eric |
-0.11 | printer-1 | printer reception
 0.20 | presenter-m | presenter wired connection in main room
 0.30 | presenter-s | presenter wired connection in second room
+
+### Reception
+IP | Name | Notes
+---|------|------
+.1 | eric |
+.11 | printer-1 | printer reception
