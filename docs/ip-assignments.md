@@ -18,6 +18,7 @@ IP | Name | Notes
 .1 | eric | router/services
 .2 | eagle | backup
 .3 | hawk | encoder
+.11 | coresw | CORE
 .21 | vidsw-mr | video team switch main room
 .22 | vidsw-sr | video team switch second room
 .23 | nocsw | NOC/team switch
