@@ -34,6 +34,9 @@
 		Buffer=1000
 		Token="a-real-not-disclosed-token"
 
+[general]
+	RemoteNickFormat="[{PROTOCOL}] <{NICK}> "
+
 [[gateway]]
 	name="si-general"
 	enable=true
@@ -57,6 +60,18 @@
 	[[gateway.inout]]
 		account="slack.openfest"
 		channel="noc"
+
+[[gateway]]
+	name="si-of-video"
+	enable=true
+
+	[[gateway.inout]]
+		account="irc.ludost"
+		channel="#video"
+
+	[[gateway.inout]]
+		account="slack.openfest"
+		channel="video"
 
 [[gateway]]
 	name="api-fan"
