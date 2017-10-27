@@ -1,5 +1,5 @@
 # Инвентаризационен лист - мрежа
-Списък със текущото свързване към дата [                           ]
+Списък със текущото свързване към дата [  2017.10.27  ]
 
 Label        |  DDF Port | Switch Port | NOTES
 -------------|-----------|-------------|------------------------
@@ -22,5 +22,5 @@ Label        |  DDF Port | Switch Port | NOTES
  of-1        | 0.1-14B   | 17          | Overflow front
  of-2        | 0.1-20A   | 18          | Overflow CHILL
  spare       | spare     | spare       |
- eric        | eric      | 46          | eric
- UPLINK      |  NONE     | 48          | Uplink
+ eric        | NONE      | 46          | eric
+ UPLINK      | NONE      | 48          | Uplink
