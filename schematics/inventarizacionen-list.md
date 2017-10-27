@@ -21,6 +21,9 @@ Label        |  DDF Port | Switch Port | NOTES
  ap-ws-w2    | 1.1-6A    | 16          | WIFI Workshop area
  of-1        | 0.1-14B   | 17          | Overflow front
  of-2        | 0.1-20A   | 18          | Overflow CHILL
- spare       | spare     | spare       |
+             |           |             |
+ encoder     | NONE      | 44          | Encoder for video
+ standby     | NONE      | 45          | Standby router
  eric        | NONE      | 46          | eric
+ UPLINK      | NONE      | 47          | Uplink
  UPLINK      | NONE      | 48          | Uplink
