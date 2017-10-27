@@ -5,7 +5,7 @@ Label        |  DDF Port | Switch Port | NOTES
 -------------|-----------|-------------|------------------------
  mrvocsw     | 0.1-7A    | 1           | Main room
  srvocsw     | 0.1-9A    | 2           | Second room
- receptionsw | 0.1-6A | 3           | Reception
+ receptionsw | 0.1-6A    | 3           | Reception
  nocsw       | 0.1-14A   | 4           | NOC
  wssw1       | 1.1-3A    | 5           | users
  wssw2       | 1.1-5A    | 6           | users
@@ -21,7 +21,31 @@ Label        |  DDF Port | Switch Port | NOTES
  ap-ws-w2    | 1.1-6A    | 16          | WIFI Workshop area
  of-1        | 0.1-14B   | 17          | Overflow front
  of-2        | 0.1-20A   | 18          | Overflow CHILL
-_____________|___________|_____________|_________________________________________
+ _           | _         | 19          | 
+ _           | _         | 20          | 
+ _           | _         | 21          | 
+ _           | _         | 22          | 
+ _           | _         | 23          | 
+ _           | _         | 24          | 
+ _           | _         | 25          | 
+ _           | _         | 26          | 
+ _           | _         | 27          | 
+ _           | _         | 28          | 
+ _           | _         | 29          | 
+ _           | _         | 30          | 
+ _           | _         | 31          | 
+ _           | _         | 32          | 
+ _           | _         | 33          | 
+ _           | _         | 34          | 
+ _           | _         | 35          | 
+ _           | _         | 36          | 
+ _           | _         | 37          | 
+ _           | _         | 38          | 
+ _           | _         | 39          | 
+ _           | _         | 40          | 
+ _           | _         | 41          | 
+ _           | _         | 42          | 
+ _           | _         | 43          | 
  encoder     | NONE      | 44          | Encoder for video
  standby     | NONE      | 45          | Standby router
  eric        | NONE      | 46          | eric
