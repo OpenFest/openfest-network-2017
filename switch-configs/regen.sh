@@ -15,6 +15,8 @@ BASEDIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
 
 source ${BASEDIR}/secrets.conf
 
+rm -f *_compiled.cfg
+
 for _config in $(ls -1 ${BASEDIR}/*.cfg) ; do
 	sed \
 		-e "s/@PW@/${ACCESS_PW}/g" \
