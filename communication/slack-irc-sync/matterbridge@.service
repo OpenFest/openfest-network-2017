@@ -6,7 +6,7 @@ After=network.target
 User=nobody
 Group=nogroup
 PrivateTmp=yes
-ExecStart=/opt/matterbridge/bin/matterbridge -conf /etc/matterbridge/%i.json
+ExecStart=/opt/go-home/bin/matterbridge -conf /etc/matterbridge/%i.toml
 
 [Install]
 WantedBy=multi-user.target
