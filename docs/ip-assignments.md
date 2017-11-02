@@ -39,6 +39,9 @@ IP | Name | Notes
 .60 | ap-ws-ws1  | ap workshop floor workshop area
 .61 | ap-ws-ws2  | ap workshop floor workshop area
 .62 | ap-ws-noc  | ap workshop floor NOC/team room
+.63 | ap-spare-1 | Spare AP#1
+.64 | ap-spare-2 | Spare AP#2
+.65 | ap-spare-3 | Spare AP#3
 
 ### Video
 IP | Name | Notes
