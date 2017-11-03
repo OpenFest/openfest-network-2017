@@ -48,6 +48,8 @@ IP | Name | Notes
 ---|------|------
 .1 | eric |
 .3 | hawk | encoder
+.5 | videosw-m-1 | main room Blackmagic video switcher
+.6 | videosw-s-1 | second room Blackmagic video switcher
 .21 | stream-1 | main room streamer
 .22 | stream-2 | second room streamer
 .31 | control-m-1 | main room laptop/controller ???
