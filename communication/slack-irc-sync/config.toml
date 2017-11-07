@@ -38,7 +38,7 @@
 	RemoteNickFormat="[{PROTOCOL}] <{NICK}> "
 
 [[gateway]]
-	name="si-general"
+	name="si-of-general"
 	enable=true
 
 	[[gateway.inout]]
@@ -50,7 +50,7 @@
 		channel="general"
 
 [[gateway]]
-	name="si-noc"
+	name="si-of-noc"
 	enable=true
 
 	[[gateway.inout]]
